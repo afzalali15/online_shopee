@@ -1,5 +1,6 @@
-# Online Shopee | GetX State Management Demo
-Minimal UI | Modern Theme | Full Functional<br>
+# Online Shopee | GetX State Management
+Online Shopping application demo with CartPage
+
 [![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
 
 <p align="center">
