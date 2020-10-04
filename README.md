@@ -1,4 +1,11 @@
-# online_shopee
+# Online Shopee | GetX State Management Demo
+Minimal UI | Modern Theme | Full Functional<br>
+[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
+
+<p align="center">
+  <img src="getx_state.png" alt="getx state management" title="Screenshot">
+</p>
+
 
 A new Flutter project.
 
